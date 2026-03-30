@@ -1,3 +1,6 @@
+// Nome: Bernardo Andrade de Castro
+// Matrícula: 1261949045
+
 import java.util.Scanner;
 
 public class App {
